@@ -1,0 +1,19 @@
+<RRS021_Guys1B_radar.model>
+	<castsShadow>	false	</castsShadow>
+	<action>
+		<name>	idle	</name>
+		<animation>	Rotation6rpm	</animation>
+		<filler>	true	</filler>
+	</action>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS021_Guys1B_radar_lod1	</parent>
+	<extent>	1.000000	</extent>
+	<materialNames />
+	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS021_Guys1B_radar	</nodefullVisual>
+	<animation>
+		<name>	Rotation6rpm	</name>
+		<frameRate>	30.000000	</frameRate>
+		<nodes>	content/animation/common/Rotation6rpm	</nodes>
+	</animation>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RRS021_Guys1B_radar.model>

@@ -1,0 +1,285 @@
+<RSD021_Grozovoy_1945_MidFront_ports.visual>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	MidFront_ports	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+			<node>
+				<identifier>	MP_RTD1191	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.709031 1.084958 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM185_Fakel_MO	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.609307 0.962037 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RTD1205	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.587176 0.364892 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM298_Fakel_MZ	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.720493 0.790114 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM084_Running_Lights_R	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.200814 0.607654 1.485899 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM085_Running_Lights_L	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	-0.200774 0.607654 1.485899 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RTD1199	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.848724 1.136771 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RTD1194	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.463729 1.405415 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM092_Wind_Direction	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 -0.500000 0.000000	</row0>
+					<row1>	0.000000 0.500000 0.000000 0.000000	</row1>
+					<row2>	0.500000 0.000000 0.000000 0.000000	</row2>
+					<row3>	0.121814 1.451075 0.817012 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM093_Wind_Intensity	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 0.500000 0.000000	</row0>
+					<row1>	0.000000 0.500000 0.000000 0.000000	</row1>
+					<row2>	-0.500000 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.121814 1.451075 0.817012 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RTD1203	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.730978 1.603116 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_RD_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.771965 1.601600 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_RF_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.095740 1.100124 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_RGA_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.525544 1.853468 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_RGA_2	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	-1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	-0.351454 0.399211 1.305587 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_RGA_3	</identifier>
+				<transform>
+					<row0>	0.000000 0.000000 -1.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	1.000000 0.000000 0.000000 0.000000	</row2>
+					<row3>	0.351454 0.399211 1.305587 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_RGM_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.417021 2.401209 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_RRS_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.860650 1.425760 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_RRS_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.053348 1.342306 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_RRS_3	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.468648 1.023523 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_RRS_4	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.635317 0.904565 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_1	</identifier>
+				<transform>
+					<row0>	0.999641 0.026739 -0.001918 0.000000	</row0>
+					<row1>	-0.026739 0.989409 -0.142670 0.000000	</row1>
+					<row2>	-0.001918 0.142670 0.989768 0.000000	</row2>
+					<row3>	0.140746 1.410789 0.805680 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_2	</identifier>
+				<transform>
+					<row0>	0.999641 -0.026739 0.001918 0.000000	</row0>
+					<row1>	0.026739 0.989409 -0.142670 0.000000	</row1>
+					<row2>	0.001918 0.142670 0.989768 0.000000	</row2>
+					<row3>	-0.140746 1.410789 0.805680 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_3	</identifier>
+				<transform>
+					<row0>	0.999922 -0.012446 0.000574 0.000000	</row0>
+					<row1>	0.012446 0.995677 -0.092047 0.000000	</row1>
+					<row2>	0.000574 0.092047 0.995755 0.000000	</row2>
+					<row3>	0.095216 1.405946 0.838697 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_4	</identifier>
+				<transform>
+					<row0>	0.999922 0.012446 -0.000574 0.000000	</row0>
+					<row1>	-0.012446 0.995677 -0.092047 0.000000	</row1>
+					<row2>	-0.000574 0.092047 0.995755 0.000000	</row2>
+					<row3>	-0.095216 1.405946 0.838697 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_flag_rank	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 0.958408 -0.285403 0.000000	</row1>
+					<row2>	0.000000 0.285403 0.958408 0.000000	</row2>
+					<row3>	0.000000 1.547776 0.699169 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Fire_Burn_2	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 1.522189 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_Smoke_1	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.748918 0.492899 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	HP_NoseWave_Speed	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+				</transform>
+			</node>
+		</node>
+	</node>
+	<boundingBox>
+		<min>	-0.066700 -0.066700 -0.066700	</min>
+		<max>	0.066700 0.066700 0.066700	</max>
+	</boundingBox>
+</RSD021_Grozovoy_1945_MidFront_ports.visual>

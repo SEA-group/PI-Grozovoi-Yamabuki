@@ -1,0 +1,38 @@
+<RF044_SPN_500_1_4m_lod2.visual>
+	<boundingBox>
+		<min>	-0.160550 0.000000 -0.129982	</min>
+		<max>	0.160550 0.243916 0.222926	</max>
+	</boundingBox>
+	<node>
+		<identifier>	Scene Root	</identifier>
+		<transform>
+			<row0>	1.000000 0.000000 0.000000	</row0>
+			<row1>	0.000000 1.000000 0.000000	</row1>
+			<row2>	0.000000 0.000000 1.000000	</row2>
+			<row3>	0.000000 0.000000 0.000000	</row3>
+		</transform>
+		<node>
+			<identifier>	RF044_SPN_500_1_4m	</identifier>
+			<transform>
+				<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+				<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+				<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+				<row3>	0.000000 0.000000 0.000000 1.000000	</row3>
+			</transform>
+		</node>
+	</node>
+	<renderSet>
+		<treatAsWorldSpaceObject>	false	</treatAsWorldSpaceObject>
+		<node>	RF044_SPN_500_1_4m	</node>
+		<geometry>
+			<vertices>	RF044_SPN_500_1_4m_lod2Shape.vertices	</vertices>
+			<primitive>	RF044_SPN_500_1_4m_lod2Shape.indices	</primitive>
+			<primitiveGroup>	0
+				<material>
+					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<mfm>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/finder/RF044_SPN_500_1_4m.mfm	</mfm>
+				</material>
+			</primitiveGroup>
+		</geometry>
+	</renderSet>
+</RF044_SPN_500_1_4m_lod2.visual>

@@ -1,0 +1,8 @@
+<RF044_SPN_500_1_4m_lod2.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/finder/RF044_SPN_500_1_4m_lod3	</parent>
+	<extent>	15.0000	</extent>
+	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/finder/RF044_SPN_500_1_4m_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RF044_SPN_500_1_4m_lod2.model>
