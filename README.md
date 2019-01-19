@@ -1,13 +1,9 @@
-﻿# Titanium Grozovoi - Motive Armes Yamabuki
+﻿# Titanium Grozovoi - Motive Arms Yamabuki
 
 ======================Presented by SEA group======================
 
-
-
 Installation: 
-
 Copy "PnFMods" and "PnFModsLoader.py" into /res_mods/a.b.c.d(current version)/
-
 
 安装：
 把PnFMods和PnFModsLoader.py放到
