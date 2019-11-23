@@ -29,7 +29,7 @@
 			<primitive>	RD017_RAS_Low_Angle_dir_lodShape3.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/director/RD017_RAS_low_Angle_dir.mfm	</mfm>
 				</material>
 			</primitiveGroup>

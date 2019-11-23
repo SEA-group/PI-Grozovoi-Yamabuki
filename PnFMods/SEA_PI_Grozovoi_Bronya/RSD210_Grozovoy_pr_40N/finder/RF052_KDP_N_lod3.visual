@@ -25,7 +25,7 @@
 			<primitive>	KDP_N_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Director	</identifier>
+					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/finder/RF052_KDP_N.mfm	</mfm>
 				</material>
 			</primitiveGroup>
