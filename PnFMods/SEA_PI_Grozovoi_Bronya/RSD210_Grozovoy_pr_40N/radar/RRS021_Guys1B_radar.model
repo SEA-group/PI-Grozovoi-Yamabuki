@@ -6,7 +6,7 @@
 		<filler>	true	</filler>
 	</action>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS021_Guys1B_radar_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/lods/RRS021_Guys1B_radar_lod1	</parent>
 	<extent>	1.000000	</extent>
 	<materialNames />
 	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS021_Guys1B_radar	</nodefullVisual>

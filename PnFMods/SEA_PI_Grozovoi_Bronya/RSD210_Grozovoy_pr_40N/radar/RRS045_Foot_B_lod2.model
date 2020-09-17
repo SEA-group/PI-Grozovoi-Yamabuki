@@ -1,8 +1,0 @@
-<RRS045_Foot_B_lod2.model>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS045_Foot_B_lod3	</parent>
-	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS045_Foot_B_lod2	</nodefullVisual>
-	<extent>	10.000000	</extent>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</RRS045_Foot_B_lod2.model>

@@ -1,8 +1,0 @@
-<RGA089_25mm_4M120_dead_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/RGA089_25mm_4M120_dead_lod2	</parent>
-	<extent>	3.000000	</extent>
-	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/RGA089_25mm_4M120_dead_lod1	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</RGA089_25mm_4M120_dead_lod1.model>

@@ -1,9 +1,0 @@
-<RGT071_533mm_PTA_5tubes_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/RGT071_533mm_PTA_5tubes_lod3	</parent>
-	<extent>	10.000000	</extent>
-	<materialNames />
-	<castsShadow>	true	</castsShadow>
-	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/RGT071_533mm_PTA_5tubes_lod2	</nodefullVisual>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</RGT071_533mm_PTA_5tubes_lod2.model>

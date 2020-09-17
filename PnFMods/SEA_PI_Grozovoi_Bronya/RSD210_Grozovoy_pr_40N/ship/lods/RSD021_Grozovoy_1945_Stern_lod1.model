@@ -1,0 +1,8 @@
+<RSD021_Grozovoy_1945_Stern_lod1.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/ship/lods/RSD021_Grozovoy_1945_Stern_lod2	</parent>
+	<extent>	21.0000	</extent>
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/ship/lods/RSD021_Grozovoy_1945_Stern_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RSD021_Grozovoy_1945_Stern_lod1.model>

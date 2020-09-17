@@ -1,8 +1,0 @@
-<RGA066_45mm_SM_20_Zif_lod2.model>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/RGA066_45mm_SM_20_Zif_lod3	</parent>
-	<extent>	20.0000	</extent>
-	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/RGA066_45mm_SM_20_Zif_lod2	</nodefullVisual>
-	<castsShadow>	false	</castsShadow>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</RGA066_45mm_SM_20_Zif_lod2.model>

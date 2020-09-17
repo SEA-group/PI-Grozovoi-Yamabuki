@@ -1,0 +1,8 @@
+<RD017_RAS_Low_Angle_dir_lod1.model>
+	<castsShadow>	false	</castsShadow>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/director/lods/RD017_RAS_Low_Angle_dir_lod2	</parent>
+	<extent>	3.000000	</extent>
+	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/director/lods/RD017_RAS_Low_Angle_dir_lod1	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RD017_RAS_Low_Angle_dir_lod1.model>

@@ -1,0 +1,9 @@
+<RGM098_130mm_sm2_1_dead_lod2.model>
+	<exporter>	1.6	</exporter>
+	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/lods/RGM098_130mm_sm2_1_dead_lod3	</parent>
+	<extent>	38.0000	</extent>
+	<materialNames />
+	<castsShadow>	true	</castsShadow>
+	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/lods/RGM098_130mm_sm2_1_dead_lod2	</nodefullVisual>
+	<metaData>	Wargaming | Lesta Studio	</metaData>
+</RGM098_130mm_sm2_1_dead_lod2.model>

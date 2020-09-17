@@ -1,6 +1,6 @@
 <RGT071_533mm_PTA_5tubes.model>
 	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/RGT071_533mm_PTA_5tubes_lod1	</parent>
+	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/lods/RGT071_533mm_PTA_5tubes_lod1	</parent>
 	<extent>	3.000000	</extent>
 	<materialNames />
 	<castsShadow>	true	</castsShadow>
