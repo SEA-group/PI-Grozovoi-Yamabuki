@@ -14,3 +14,6 @@ Presented by SEA group
 
 ## Credits
 * All pictures credit to miHoYo 
+
+## Preview
+![PI-Grozovoi-Yamabuki](https://raw.githubusercontent.com/SEA-group/PI-Grozovoi-Yamabuki/master/Affiche.jpg)
