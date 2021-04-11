@@ -62,7 +62,7 @@
 			<primitive>	RRS048_ZaryaShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_Misc	</identifier>
+					<identifier>	SHIPMATX_PBS_Misc	</identifier>
 					<mfm>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS048_Zarya_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>

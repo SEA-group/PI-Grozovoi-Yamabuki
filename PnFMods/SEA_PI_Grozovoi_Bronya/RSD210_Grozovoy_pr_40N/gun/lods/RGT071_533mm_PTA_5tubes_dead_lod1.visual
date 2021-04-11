@@ -29,7 +29,7 @@
 			<primitive>	RGT071_533mm_5tubes_dead_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunDeadX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunDeadX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/RGT071_533mm_PTA_5tubes_dead.mfm	</mfm>
 				</material>
 			</primitiveGroup>

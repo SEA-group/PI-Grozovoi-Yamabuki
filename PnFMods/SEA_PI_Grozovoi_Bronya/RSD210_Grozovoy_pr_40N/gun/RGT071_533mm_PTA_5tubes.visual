@@ -74,7 +74,7 @@
 			<primitive>	RGT071_533mm_5tubesShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/RGT071_533mm_PTA_5tubes.mfm	</mfm>
 				</material>
 			</primitiveGroup>

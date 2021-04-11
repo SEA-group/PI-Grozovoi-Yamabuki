@@ -25,7 +25,7 @@
 			<primitive>	RRS045_Foot_BShape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS045_Foot_B.mfm	</mfm>
 				</material>
 			</primitiveGroup>

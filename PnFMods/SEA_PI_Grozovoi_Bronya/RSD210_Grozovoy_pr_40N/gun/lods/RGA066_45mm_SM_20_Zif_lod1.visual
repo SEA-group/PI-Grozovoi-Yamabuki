@@ -47,7 +47,7 @@
 			<primitive>	gun_Root_lod1Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_GunX	</identifier>
+					<identifier>	SHIPMATX_PBS_GunX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/gun/RGA066_45mm_SM_20_Zif.mfm	</mfm>
 				</material>
 			</primitiveGroup>

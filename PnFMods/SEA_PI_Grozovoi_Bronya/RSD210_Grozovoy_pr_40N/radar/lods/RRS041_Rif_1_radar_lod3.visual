@@ -66,7 +66,7 @@
 			<primitive>	RRS041_Rif_1_Radar_lod3Shape.indices	</primitive>
 			<primitiveGroup>	0
 				<material>
-					<identifier>	SHIPMAT_PBS_DirectorX	</identifier>
+					<identifier>	SHIPMATX_PBS_DirectorX	</identifier>
 					<mfm>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS041_Rif_1_radar_skinned.mfm	</mfm>
 				</material>
 			</primitiveGroup>
