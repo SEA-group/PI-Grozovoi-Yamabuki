@@ -43,21 +43,39 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_RTD1158	</identifier>
+				<identifier>	MP_RM028_Signal_Lamp	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.637317 4.510062 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.0000 0.7024 4.5178 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_RTD1160	</identifier>
+				<identifier>	MP_RM028_Signal_Lamp_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.354608 3.793136 1.000000	</row3>
+					<row0>	-1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 -1.0000 0.0000	</row2>
+					<row3>	0.0000 0.5722 4.5023 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM179_Anchor_Stopper	</identifier>
+				<transform>
+					<row0>	0.9920 -0.0024 0.1265 0.0000	</row0>
+					<row1>	0.0089 0.9987 -0.0503 0.0000	</row1>
+					<row2>	-0.1262 0.0510 0.9907 0.0000	</row2>
+					<row3>	-0.1104 0.3546 3.7931 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM179_Anchor_Stopper_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.9920 0.0024 -0.1265 0.0000	</row0>
+					<row1>	-0.0089 0.9987 -0.0503 0.0000	</row1>
+					<row2>	0.1262 0.0510 0.9907 0.0000	</row2>
+					<row3>	0.1104 0.3546 3.7931 1.0000	</row3>
 				</transform>
 			</node>
 			<node>

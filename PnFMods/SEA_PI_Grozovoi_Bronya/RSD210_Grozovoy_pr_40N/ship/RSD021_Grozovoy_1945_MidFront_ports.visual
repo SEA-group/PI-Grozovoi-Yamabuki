@@ -151,39 +151,21 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_RTD1191	</identifier>
+				<identifier>	MP_RM070_Binoculars_Bridge	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.709031 1.084958 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1584 0.8487 1.1368 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_RM185_Fakel_MO	</identifier>
+				<identifier>	MP_RM070_Binoculars_Bridge_INDEX_1	</identifier>
 				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 1.609307 0.962037 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_RTD1205	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.587176 0.364892 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_RM298_Fakel_MZ	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 1.720493 0.790114 1.000000	</row3>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1584 0.8487 1.1368 1.0000	</row3>
 				</transform>
 			</node>
 			<node>
@@ -205,24 +187,6 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_RTD1199	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.848724 1.136771 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
-				<identifier>	MP_RTD1194	</identifier>
-				<transform>
-					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
-					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
-					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.463729 1.405415 1.000000	</row3>
-				</transform>
-			</node>
-			<node>
 				<identifier>	MP_RM092_Wind_Direction	</identifier>
 				<transform>
 					<row0>	0.000000 0.000000 -0.500000 0.000000	</row0>
@@ -241,12 +205,93 @@
 				</transform>
 			</node>
 			<node>
-				<identifier>	MP_RTD1203	</identifier>
+				<identifier>	MP_RM163_Antenna_UCV	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	0.1725 0.5872 0.3649 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM163_Antenna_UCV_INDEX_1	</identifier>
+				<transform>
+					<row0>	1.0000 0.0000 0.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.0000 0.0000 1.0000 0.0000	</row2>
+					<row3>	-0.1725 0.5872 0.3649 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM173_Signal_lanp_450mm_MSPl452	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.2760 0.7090 1.0850 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM173_Signal_lanp_450mm_MSPl452_INDEX_1	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.2760 0.7090 1.0850 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM185_Fakel_MO	</identifier>
 				<transform>
 					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
 					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
 					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
-					<row3>	0.000000 0.730978 1.603116 1.000000	</row3>
+					<row3>	0.000000 1.609307 0.962037 1.000000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM214_Life_Buoy	</identifier>
+				<transform>
+					<row0>	-0.0183 0.0000 -0.9998 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	0.9998 0.0000 -0.0183 0.0000	</row2>
+					<row3>	-0.4380 0.3067 1.7933 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM214_Life_Buoy_INDEX_1	</identifier>
+				<transform>
+					<row0>	-0.0183 0.0000 0.9998 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-0.9998 0.0000 -0.0183 0.0000	</row2>
+					<row3>	0.4380 0.3067 1.7933 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM214_Life_Buoy_INDEX_2	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 -1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	-0.2567 0.6208 1.0175 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM214_Life_Buoy_INDEX_3	</identifier>
+				<transform>
+					<row0>	0.0000 0.0000 1.0000 0.0000	</row0>
+					<row1>	0.0000 1.0000 0.0000 0.0000	</row1>
+					<row2>	-1.0000 0.0000 0.0000 0.0000	</row2>
+					<row3>	0.2567 0.6208 1.0175 1.0000	</row3>
+				</transform>
+			</node>
+			<node>
+				<identifier>	MP_RM298_Fakel_MZ	</identifier>
+				<transform>
+					<row0>	1.000000 0.000000 0.000000 0.000000	</row0>
+					<row1>	0.000000 1.000000 0.000000 0.000000	</row1>
+					<row2>	0.000000 0.000000 1.000000 0.000000	</row2>
+					<row3>	0.000000 1.720493 0.790114 1.000000	</row3>
 				</transform>
 			</node>
 			<node>
