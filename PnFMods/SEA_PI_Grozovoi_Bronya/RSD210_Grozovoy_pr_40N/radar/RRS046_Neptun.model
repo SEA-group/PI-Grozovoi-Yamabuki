@@ -1,19 +1,8 @@
 <RRS046_Neptun.model>
-	<castsShadow>	false	</castsShadow>
-	<action>
-		<name>	idle	</name>
-		<animation>	Rotation6rpm	</animation>
-		<filler>	true	</filler>
-	</action>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/lods/RRS046_Neptun_lod1	</parent>
-	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS046_Neptun	</nodefullVisual>
-	<extent>	2.000000	</extent>
-	<materialNames />
-	<animation>
-		<name>	Rotation6rpm	</name>
-		<frameRate>	30.000000	</frameRate>
-		<nodes>	content/animation/common/Rotation6rpm	</nodes>
-	</animation>
+	<visual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/RRS046_Neptun.visual	</visual>
+	<animations>
+		<animation>	content/animation_state_machines/legacy/gameplay/RRS046_Neptun/RRS046_Neptun.ssm	</animation>
+	</animations>
+	<dyes />
 	<metaData>	Wargaming | Lesta Studio	</metaData>
 </RRS046_Neptun.model>

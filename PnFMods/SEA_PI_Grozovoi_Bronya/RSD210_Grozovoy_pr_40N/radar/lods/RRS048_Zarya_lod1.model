@@ -1,8 +1,0 @@
-<RRS048_Zarya_lod1.model>
-	<castsShadow>	false	</castsShadow>
-	<exporter>	1.6	</exporter>
-	<parent>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/lods/RRS048_Zarya_lod2	</parent>
-	<nodefullVisual>	PnFMods/SEA_PI_Grozovoi_Bronya/RSD210_Grozovoy_pr_40N/radar/lods/RRS048_Zarya_lod1	</nodefullVisual>
-	<extent>	2.000000	</extent>
-	<metaData>	Wargaming | Lesta Studio	</metaData>
-</RRS048_Zarya_lod1.model>
